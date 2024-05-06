@@ -7,7 +7,7 @@
             <i class="bi bi-pie-chart"></i>
             </div>
             <div class="sale-details">
-            <h3 class="text-blue"> Ar <?php echo format($ca['ca']) ?></h3>
+            <h3 class="text-blue"> Vb <?php echo format($ca['ca']) ?></h3>
             <p>Total Chiffre d'affaires</p>
             </div>
         </div>
