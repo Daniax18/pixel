@@ -159,17 +159,17 @@
                         <div class="content-row full row_padding_bottom dark-section" data-bgcolor="#0c0c0c">
                             
                             <ul class="team-members-list" data-fx="1">
-                                <li class="link has-hover-image" data-img="<?=base_url("assets/images/team1.jpg")?>">
-                                    <div class="team-member has-animation"><span>Rajaonasitera</span><div class="primary-font-title">Tatiana</div><span>Web Designer</span></div>
+                                <li class="link has-hover-image" data-img="<?=base_url("assets/images/team4.jpg")?>">
+                                    <div class="team-member has-animation"><span>Rajaonasitera</span><div class="primary-font-title">Tatiana</div><span>Front End</span></div>
                                 </li>
-                                <li class="link has-hover-image" data-img="<?=base_url("assets/images/team2.jpg")?>">
-                                    <div class="team-member has-animation"><span>Razafinjoelina</span><div class="primary-font-title">Fitia</div><span>UX Designer</span></div>
+                                <li class="link has-hover-image" data-img="<?=base_url("assets/images/team1.jpg")?>">
+                                    <div class="team-member has-animation"><span>Razafinjoelina</span><div class="primary-font-title">Fitia</div><span>Front End</span></div>
                                 </li>
                                 <li class="link has-hover-image" data-img="<?=base_url("assets/images/team3.jpg")?>">
-                                    <div class="team-member has-animation"><span>Andrianarison</span><div class="primary-font-title">Mahery</div><span>Art Director</span></div>
+                                    <div class="team-member has-animation"><span>Andrianarison</span><div class="primary-font-title">Mahery</div><span>Dev Ops</span></div>
                                 </li>
-                                <li class="link has-hover-image" data-img="<?=base_url("assets/images/team4.jpg")?>">
-                                    <div class="team-member has-animation"><span>Andrianandrasana</span><div class="primary-font-title">Dania</div><span>Developer</span></div>
+                                <li class="link has-hover-image" data-img="<?=base_url("assets/images/team2.jpg")?>">
+                                    <div class="team-member has-animation"><span>Andrianandrasana</span><div class="primary-font-title">Dania</div><span>Back End</span></div>
                                 </li>
                             </ul>
                             

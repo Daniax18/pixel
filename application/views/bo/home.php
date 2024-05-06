@@ -59,7 +59,7 @@
         <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
             <div class="card">
                 <div class="card-header">
-                    <div class="card-title"> Chiffre d'affaires par Pays en Vibranium </div>
+                    <div class="card-title"> Chiffre d'affaires par Planète en Vibranium </div>
                 </div>
                 <div class="card-body">
                     <div id="ca_per_pays"></div>
@@ -86,7 +86,7 @@
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <div class="card">
                 <div class="card-header">
-                    <div class="card-title">Liste des utilisateurs par pays</div>
+                    <div class="card-title">Liste des utilisateurs par planète</div>
                 </div>
                 <div class="card-body">
                     <div id="user_pays" class="primary-graph"></div>

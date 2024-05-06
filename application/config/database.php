@@ -74,12 +74,12 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> 'mysql:host=localhost;port=3306;dbname=pixelme',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'root',
-	'database' => 'pixelme',
-	'dbdriver' => 'pdo',
+	// 'dsn'	=> 'mysql:host=localhost;port=3306;dbname=pixelme',
+	'hostname' => '172.30.40.14',
+	'username' => 'fits',
+	'password' => 'mimi',
+	'database' => 'pixel',
+	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
